@@ -4,11 +4,16 @@ This project is dedicated to manual testing of the OpenCart web application. It 
 
 # Features:
 A comprehensive set of manual test cases.
+
 Test plans and documentation for organized testing.
+
 Instructions for performing manual tests on OpenCart.
-Getting Started:
+
+# Getting Started:
 Clone this repository.
+
 Review the provided test cases and test plans.
+
 Follow the documented steps to execute manual tests on OpenCart.
 
 # Project Structure:
